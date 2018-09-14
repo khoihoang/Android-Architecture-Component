@@ -1,6 +1,6 @@
 Android Architecture Components samples
-This is a sample app that uses Android Architecture Components with Dagger 2.
 ===================================
+This is a sample app that uses Android Architecture Components with Dagger 2.
 
 A collection of samples using the [Architecture Components](https://developer.android.com/arch):
 
@@ -17,7 +17,7 @@ A collection of samples using the [Architecture Components](https://developer.an
 * [Retrofit][retrofit] for REST api communication
 * [Glide][glide] for image loading
 * [Timber][timber] for logging
-* [RxJava]
+* RxJava
 
 
 [mockwebserver]: https://github.com/square/okhttp/tree/master/mockwebserver
