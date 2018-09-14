@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:checked="true"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_explore"
+            android:icon="@drawable/ic_explore_white_24dp"
+            android:title="Explore" />
+        <item
+            android:id="@+id/nav_buckets"
+            android:icon="@drawable/ic_opacity_white_24dp"
+            android:title="My buckets" />
+        <item
+            android:id="@+id/nav_likes"
+            android:icon="@drawable/ic_loyalty_black_24dp"
+            android:title="My likes" />
+
+        <item
+            android:id="@+id/nav_shots"
+            android:icon="@drawable/ic_baseline_how_to_vote_24px"
+            android:title="My Shots" />
+    </group>
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/menu_setting" />
+
+</menu>

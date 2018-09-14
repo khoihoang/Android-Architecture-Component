@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Hoang Hiep on 9/12/18 11:11 AM
+  ~ Copyright (c) 2018 INVOVN SOLUTIONS. All rights reserved.
+  ~ Last modified 9/12/18 11:11 AM
+  -->
+
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</android.support.constraint.ConstraintLayout>
